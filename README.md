@@ -1,3 +1,4 @@
+# Token Bank #
 balances：币地址=>(用户=>存款量)<br />allowance：币地址=>(用户=>授权量)<br />![图片.png](https://cdn.nlark.com/yuque/0/2024/png/27181615/1705069281717-81765baa-c0dd-4483-85bb-ba785b3108a7.png#averageHue=%2323263a&clientId=ud07f764e-2bc1-4&from=paste&height=152&id=u8baa78a0&originHeight=228&originWidth=957&originalType=binary&ratio=1.5&rotation=0&showTitle=false&size=36061&status=done&style=none&taskId=u8c76dab5-fc4c-4108-a454-75936e1c493&title=&width=638)
 <a name="N4ZYj"></a>
 ### deposite()
